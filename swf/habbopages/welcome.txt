@@ -1,0 +1,75 @@
+﻿Welcome To Habbicha
+<center><img src="/logo.png" style="image-rendering: pixelated; max-width: 220px;"></center>
+<span class="padding-bottom"><br><br></span>
+<center><h3><span class="info">Scroll Down To Read All The Recent Updates And Information!</span></h3></center>
+<center><h3><span class="info" style="color: #0592e1;"><a title="Update Logs (UPDATED)" href="/update/logs.php" target="_blank" rel="noopener"><strong>Click Here To Checkout Update Logs</strong></a></span></h3></center>
+<span class="padding-bottom"><br></span>
+<h2><span class="red">15-minute Currency Timer Updated!</span></h2>
+<p>
+<i style="font-size: 14px;">
+- Regular Users: 250 credits, 350 duckets, 15 diamonds
+<br/>
+- Supreme VIP: 350 credits, 450 duckets, 20 diamonds
+<br/>
+- Prada VIP: 450 credits, 550 duckets, 25 diamonds
+<br/>
+- Fendi VIP: 550 credits, 650 duckets, 30 diamonds
+<br/>
+- Goat VIP: 950 credits, 1,050 duckets, 40 diamonds</i>
+</p>
+<br/>
+<span class="padding-bottom"></span>
+<h2><span class="red">Economy Update!</span></h2>
+<p style="font-size: 14px;">
+<i>Each starting user upon registration will be given 35k credits, 45k duckets, and 50 diamonds. I have also gone ahead and updated all the users who had currency below those amounts so it's still fair for them!</i>
+<br/>
+<i>I've coded an intense clone system and motoring all the currency gain ways on the hotel to ensure nobody is boosting.</i>
+<br/>
+<i>There has been a limit set of 5 per item for each player daily and they're allowed a total of 15 items altogether from the Limited Ultras.</i>
+<br/>
+<i>This has been put into play to prevent people from buying all of them out and not leaving any for the users who aren't online or too low on currency but want more! </i>
+<br/><br/>
+
+<b>LTD ITEM COST</b><br/>
+<i>LTDs upon every release/drop will have a higher price that matches the changes made in cost to ensure the economy doesn't destabilize.</i><br/>
+<i>Also forgot to mention the <a title="Values Page (UPDATED)" href="/values" target="_blank" rel="noopener"><strong>Values Page</strong></a> has been updated by Tony and Lighty make sure to say thank you. </i>
+</p>
+<br/>
+
+<span class="padding-bottom"></span>
+<h2><span class="red">Habbicha Store 25% OFF Discount DEALS!</span></h2>
+<p style="font-size: 14px;">
+All of the VIP catalogs have been updated for each rank with tons of amazing new furniture!
+<br/><br/>
+
+<b>Goat VIP</b> includes massive catalog that includes a decent amount of Classic Rares and plenty of other furniture. This is our last VIP rank that will ever be added to Habbicha which means it has to be the best and will continue to improve and eventually have its own LTD Drop for Goat VIP members only
+ 
+<br/><br/>
+
+<b>More Bonuses Of Goat VIP</b><br/>
+
+<i>- Given 10 Thrones in-game
+<br/>
+- Given 135k Credits in-game
+<br/>
+- Given 155k Duckets in-game
+<br/>
+- Given 300 Diamonds in-game
+<br/>
+- Given 25 Points in-game
+<br/>
+- Currency timer 950 credits per cycle every 15 mins
+<br/>
+- Currency timer 1050 duckets per cycle every 15 mins
+<br/>
+- Currency timer 50 diamonds per cycle every 15 mins
+<br/>
+- You will have 250 daily respect every 24 hours</i><br/>
+<br/>
+</p>
+<span class="padding-bottom"></span>
+<h2><span class="red">What does Habbicha have to offer?</span></h2>
+<p style="font-size: 14px;">Habbicha has a community that is very active, and a user-base the loves to meet new people. So we can definitely say that you will be welcomed into joining our community at any time - any day. Our staff team is full of professional individuals who have undergone training before joining the team to make sure they handle your situations or any other situation in a calm and professional mannered way. All staff members are welcoming, and are ready to guide and help you while you are playing Habbicha.</p>
+<span class="padding-bottom"><br><center><h1><span class="red">At Habbicha</span></h1></span>
+<h3><span class="info">We love working with you, for you.</span></h3></center>
+<br>
